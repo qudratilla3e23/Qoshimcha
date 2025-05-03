@@ -1,0 +1,110 @@
+.a{
+    background-color: blue;
+    border-radius: 20px;
+    text-align: center;
+    border: 5px solid red;
+}
+
+.F{
+    color: green;
+}
+
+.s{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+.img{
+    height: 550px;
+    
+}
+
+.e{
+    width: 850px;
+}
+
+
+
+.d{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+
+}
+
+
+
+.form{
+    
+    }
+
+
+
+    .more{
+        width: 100%;
+        height: 100%;
+        
+    }
+
+
+    .F{
+        color: green;
+    }
+
+    .w{
+        background-color: green;
+        color: black;
+        width: 100px;
+        height: 40px;
+    }
+
+
+    .t{
+        background-color: yellow;
+        color: green;
+        text-align: center;
+    }
+    
+
+    .table{
+        width: 80%;;
+        border: 2px solid red;
+        margin: 30px auto;
+        text-align: center;
+        border-collapse: collapse;
+    }
+
+    th , td {
+        border: 2px solid blue;
+        height: 50px;
+    }
+
+    .yashil{
+        background-color: green;
+        color: white
+    }
+
+    .kok{
+        background-color: blue;
+        color: white;
+    }
+
+    .qizil{
+        background-color: red;
+        color: white;
+    }
+
+    .qora{
+        background-color: black;
+        color: white;
+    }
+
+    .qizil{
+        background-color: red;
+    }
+
+    .qora{
+        background-color: black;
+        color: white;
+    }
